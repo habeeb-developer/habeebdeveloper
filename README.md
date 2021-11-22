@@ -1,4 +1,6 @@
-### Hi there 👋
+<h6>Assalamu Alaikum</h6> 
+Hi, I'm Habeeb Mohamed👋
+I'm a software engineer in India, Tamil Nadu. I love building Front-End projects and sharing what I learn with my mates. This website is my digital green-garden — a compendium of the things I've learned and created over the years.
 
 <!--
 **habeebdeveloper/habeebdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
